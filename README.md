@@ -18,6 +18,10 @@ Responsive For MOBILE DEVICE
 ![Alt text](https://i.postimg.cc/TYkjWsL4/Screenshot-125.png)
 ![Alt text](https://i.postimg.cc/ZnSHVy4s/Screenshot-124.png)
 
+## Description
+This is ERP System project Developed using React js . Motive and use of this ERP sysmtem is to help for mananging product and order and company product .
+
+
 ## Tech Stack
 
 **Client:** React, 
